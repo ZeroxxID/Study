@@ -4,4 +4,5 @@
 - Distro Linux/Distribusi Linux: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
 ## Note
 - Download VMWare: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+- Download Orcale Virtual Box: https://www.virtualbox.org/wiki/Downloads
 - Download ubuntu: https://ubuntu.com/download/desktop
