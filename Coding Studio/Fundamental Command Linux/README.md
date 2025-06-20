@@ -1,5 +1,5 @@
 # Pengenalan ke Linux
-- Linux merupakan `Sebuah Operating System/OS yang bersifat Opensource/gratis dimana sistem ini dibangun diatas linux kernel. `
+- Linux merupakan `Sebuah Operating System/OS yang bersifat Opensource/gratis dimana sistem ini dibangun diatas linux kernel`.
 - Kernel digunakan sebagai penghubung antara Software(Aplikasi) dan Hardware(CPU, Memory, Device).
 - Distro Linux/Distribusi Linux: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
 - Terdapat dua jenis antarmuka pengguna
@@ -12,3 +12,13 @@
 - Download VMWare: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 - Download Orcale Virtual Box: https://www.virtualbox.org/wiki/Downloads
 - Download ubuntu: https://ubuntu.com/download/desktop
+
+# Dasar Command Linux
+- Terminal merupakan `Sebuah command prompt yang terdapat pada Linux, digunakan mengelola file, folder, dan lainnya`.
+- Shortcut untuk terminal di Linux adalah `Ctrl + Alt + T`.
+- Shortcut untuk memperbesar terminal di Linux adalah `Ctrl + Shift + +`.
+- Shortcut untuk memperkecil terminal di Linux adalah `Ctrl + -`.
+- `whoami` merupakan perintah yang digunakan untuk menampilkan user yang sedang digunakan.
+- `hostname` merupakan perintah yang digunakan untuk menampilkan hostname yang sedang digunakan.
+- `pwd` (Print Working Directory) merupakan perintah yang digunakan untuk menampilkan direktori yang sedang berjalan atau direktori saat ini.
+- `man (command)` (Manual) merupakan perintah untuk melihat dokumentasi cara pemakaian dari suatu perintah. 
