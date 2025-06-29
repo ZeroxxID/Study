@@ -21,4 +21,8 @@
 - `whoami` merupakan perintah yang digunakan untuk menampilkan user yang sedang digunakan.
 - `hostname` merupakan perintah yang digunakan untuk menampilkan hostname yang sedang digunakan.
 - `pwd` (Print Working Directory) merupakan perintah yang digunakan untuk menampilkan direktori yang sedang berjalan atau direktori saat ini.
-- `man (command)` (Manual) merupakan perintah untuk melihat dokumentasi cara pemakaian dari suatu perintah. 
+- `man (command)` (Manual) merupakan perintah untuk melihat dokumentasi cara pemakaian dari suatu perintah.
+- `ls` (List) merupakan perintah yang digunakan untuk menampilkan daftar file atau folder pada direktori saat ini.
+- File atau folder yang tersembunyi mempunyai awalan `.(nama)` contoh `.coding_studio`, file atau folder tersebut dapat diketahui dengan `ls -a` atau `ls --all`, untuk menampilkan daftar file atau folder dengan detail `ls -l`. Terdapat juga `.` dan `..` yang mengartikan bahwa `.` merupakan direktori saat ini sedangkan `..` merupakan direktori sebelumnya.
+- `clear` merupakan perintah yang digunakan untuk membersihkan halaman terminal.
+- `touch` merupakan perintah yang digunakan untuk membuat file kosong dan mengubah timestamps(waktu akses dan modifikasi) file yang sudah tersedia.
