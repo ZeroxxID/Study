@@ -9,4 +9,5 @@
 - Phishing = Jenis serangan yang biasanya menggunakan tenik social engineering salah satunya adalah dengan cara mengirimkan sebuah pesan atau email yang bertujuan untuk memancing korban untuk memberikan data sensitif mereka seperti kata sandi ataupun informasi pribadi lainnya.
 - Ransomware = Jenis serangan ini akan mengunci data-data yang dimiliki oleh korban dengan melakukan enkripsi dan biasanya bertujuan untuk mengambil keuntungan dengan cara meminta tebusan untuk data-data yang sudah dikunci sebelumnya.
 - Malware (Malicious Software) = Jenis serangan yang biasanya menggunakan program berbahaya dengan maksud untuk merusak, mencuri, atau mengakses data tanpa izin. Contoh  malware seperti Virus, Trojan, Ransomware, dsb.
-- DDOS ()
+- DDOS (Distributed Denial of Service) = Jenis serangan ini bertujuan untuk membanjiri server atau jaringan dengan request yang berlebihan sehingga menyebabkan layanan akan terganggu bahkan tidak bisa diakses.
+- Data Breach (Kebocoran Data) = Jenis serangan yang menyebabkan tereksposnya data-data sensitif yang biasanya akan diperjualbelikan di darkweb.
