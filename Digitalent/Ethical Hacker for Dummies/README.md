@@ -18,7 +18,7 @@
 - Seorang ahli keamanan yang ditugaskan dengan izin dan siap mematuhi regulasi hukum biasa dikenal sebagai white hat, tugasnya adalah melindungi dan meningkatkan keamanan sistem dan jaringan.
 ## Apa itu Ethical Hacking?
 - Ethical Hacking adalah proses atau praktik menemukan, mengidentifikasi, dan menguji kerentanan keamanan dalam sistem atau jaringan.
-- Tujuan dari Ethical Hacking adalah untuk membantu organisasi atau individu memperkuat keamanan digital mereka dengan menemukan potensi ancaman dan memberikan solusiuntuk mencegahnya.
+- Tujuan dari Ethical Hacking adalah untuk membantu organisasi atau individu memperkuat keamanan digital mereka dengan menemukan potensi ancaman dan memberikan solusi untuk mencegahnya.
 - Ethical Hacking adalah aktivitas yang melindungi dan menjaga integritas, kerahasiaan, dan ketersediaan data dalam sistem.
 ## Ethical Hacking vs Ethical Hacker
 - Ethical Hacking = Aktivitas atau proses
