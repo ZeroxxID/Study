@@ -45,4 +45,35 @@
 - Kemampuan melakukan analisis
 - Pemahaman terkait etika Hacking dan hukum yang berlaku
 ## Kenapa Ethical Hacking Diperlukan?
-- Ethical Hacking diperlukan untuk memastikan keamanan dan keandalan sebuah sistem dalam organisasi yang dilakukan secara legal dan terkontrol, sehingga dapat membantu menemukan celah keamanan yang mungkin terlewatkan selama proses pengembangan sistem. 
+- Ethical Hacking diperlukan untuk memastikan keamanan dan keandalan sebuah sistem dalam organisasi yang dilakukan secara legal dan terkontrol, sehingga dapat membantu menemukan celah keamanan yang mungkin terlewatkan selama proses pengembangan sistem.
+
+# Post Test
+1. Serangan yang bertujuan mencuri informasi pribadi dengan mengelabui korban melalui email palsu disebut:
+a. Ransomware
+b. Phishing
+c. DDoS
+d. Malware
+
+2. Ketika data pribadi seperti nomor identitas, alamat, atau informasi kartu kredit bocor ke pihak yang tidak berwenang, ini disebut:
+a. Phishing
+b. Spear Phishing
+c. Data Breach
+d. Spoofing
+
+3. Serangan apa yang biasanya dilakukan dengan mengirimkan banyak sekali permintaan palsu ke server hingga tidak bisa menangani permintaan yang sah?
+a. Phishing
+b. DDoS
+c. SQL Injection
+d. Man-in-the-Middle
+
+4. Apa yang dimaksud dengan "black hat hacker"?
+a. Hacker yang bekerja di sisi hukum untuk mengidentifikasi masalah di sistem
+b. Hacker yang menggunakan keterampilannya untuk tujuan ilegal atau merusak
+c. Hacker yang mencoba menemukan kelemahan sistem untuk perbaikan
+d. Hacker yang bekerja dengan perusahaan untuk mengamankan sistem
+
+5. Apa yang dimaksud dengan tahapan reconnaissance dalam ethical hacking?
+a. Memperbaiki kelemahan yang ditemukan dalam sistem
+b. Menghapus jejak dan bukti serangan
+c. Mengumpulkan informasi tentang target untuk menemukan kerentanannya
+d. Menyusup ke dalam sistem dengan menggunakan malware
