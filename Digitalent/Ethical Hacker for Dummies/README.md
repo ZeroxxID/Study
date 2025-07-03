@@ -37,3 +37,12 @@
 ## Hubungan Antara Ethical Hacking Dengan Penetration Testing
 - Penetration Testing adalah proses atau aktivitas yang lebih spesifik lagi di dalam lingkup Ethical Hacking.
 - Penetration Testing (Pentesting) biasanya dilakukan untuk tujuan tertentu dengan serangkaian tahapan yang hampir sama dengan Ethical Hacking namun biasanya lebih spesifik terkait Scope yang akan diuji dan dilakukan secara legal berdasarkan kesepakatan serta akan menghasilakn sebuah output berupa report atau laporan terkait hasil uji Pentesting.
+## Skill Yang Diperlukan Dalam Ethical Hacking
+- Pemahaman terkait sistem operasi
+- Pemahaman terkait jaringan
+- Pemahaman terkait pemograman
+- Pemahaman terkait database
+- Kemampuan melakukan analisis
+- Pemahaman terkait etika Hacking dan hukum yang berlaku
+## Kenapa Ethical Hacking Diperlukan?
+- Ethical Hacking diperlukan untuk memastikan keamanan dan keandalan sebuah sistem dalam organisasi yang dilakukan secara legal dan terkontrol, sehingga dapat membantu menemukan celah keamanan yang mungkin terlewatkan selama proses pengembangan sistem. 
