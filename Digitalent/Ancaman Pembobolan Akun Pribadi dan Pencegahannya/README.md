@@ -49,3 +49,22 @@ Simak beberapa TIPS berikut untuk menjaga perangkat kamu tetap aman.
 5. Jangan mengunjungi dan mengunduh pada situs ilegal.
 6. Mencari informasi pengaturan keamanan setiap akun.
 7. Memanfaatkan situs pemeriksaan data pribadi apakah data kita masuk kedalam Data Breach.
+
+## Quiz
+1. Apa yang bisa menjadi tanda-tanda serangan Social Engineering?
+a. Email atau pesan yang meminta informasi pribadi secara mendesak.
+b. Terdapat notifikasi antivirus pada email
+c. Penggunaan kata sandi yang kuat.
+d. Penggunaan sistem keamanan yang mutakhir.
+
+2. Apa langkah terbaik untuk melindungi diri dari serangan phishing?
+a. Memeriksa URL dan memastikan domain yang benar sebelum memberikan informasi
+b. Menjawab setiap email yang meminta data pribadi dengan cepat
+c. Mengklik semua link untuk memastikan validitas
+d. Mengabaikan semua email yang datang
+
+3. Apa yang dimaksud dengan Social Engineering dalam konteks keamanan informasi?
+a. Metode sosialisasi pada media sosial
+b. Metode untuk memanipulasi pengguna agar memberikan informasi rahasia.
+c. Teknik pengujian keamanan perangkat lunak.
+d. Proses pengembangan aplikasi keamanan.
