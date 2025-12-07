@@ -1,4 +1,4 @@
-console.log("=====[Tiket Masuk Zoo]=====")
+console.log("=====[ Tiket Masuk Zoo ]=====")
 let dataVisitors = [{name: "July", age: 4}, {name: "Joko", age: 35}, {name: "Sela", age: 65}, {name: "Zell", age: 10}];
 
 const ticketPrice = 50000;
